@@ -1,1 +1,1 @@
-# RAG-based-QnA-Bot---Gemini-
+# QnA-Bot-Using-Gemini
